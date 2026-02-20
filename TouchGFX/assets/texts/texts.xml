@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_1QWY" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">OFF</Translation>
+      </Text>
+      <Text Id="__SingleUse_H4IL" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">ON</Translation>
+      </Text>
+      <Text Id="__SingleUse_1JIR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_0U0Q" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZNDE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_C7VI" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_6SJL" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_4TLZ" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_893W" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_HVH1" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_J5H9" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;d2&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_3B6P" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">:</Translation>
+      </Text>
+      <Text Id="__SingleUse_XP4X" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">:</Translation>
+      </Text>
+      <Text Id="__SingleUse_D9JS" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;d2&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_R4YV" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;d2&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0DTX" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">:</Translation>
+      </Text>
+      <Text Id="__SingleUse_F6A1" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">:</Translation>
+      </Text>
+      <Text Id="__SingleUse_ME99" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;d2&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_UHDF" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;d2&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_2D3B" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;d2&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_JHLM" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">:</Translation>
+      </Text>
+      <Text Id="__SingleUse_Z90Z" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">&lt;d2&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_3I3E" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">&lt;d2&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PMHS" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">SET</Translation>
+      </Text>
+      <Text Id="__SingleUse_VKPL" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">M &gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BHBG" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">&lt; M</Translation>
+      </Text>
+      <Text Id="__SingleUse_CT6B" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">H &gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_RDVP" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">&lt; H</Translation>
+      </Text>
+      <Text Id="__SingleUse_BZC6" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">SET TIMER</Translation>
+      </Text>
+      <Text Id="__SingleUse_4V0L" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">MAIN</Translation>
+      </Text>
+      <Text Id="__SingleUse_RNGV" Alignment="Left" TypographyId="Typography_01">
+        <Translation Language="GB">SwitchBot</Translation>
+      </Text>
+      <Text Id="__SingleUse_JHIR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OFF</Translation>
+      </Text>
+      <Text Id="__SingleUse_TI3T" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ON</Translation>
+      </Text>
+      <Text Id="__SingleUse_9WLU" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">• Light ON</Translation>
+      </Text>
+      <Text Id="__SingleUse_481A" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">TIMER</Translation>
+      </Text>
+      <Text Id="__SingleUse_13YP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OFF</Translation>
+      </Text>
+      <Text Id="__SingleUse_GI7A" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ON</Translation>
+      </Text>
+      <Text Id="__SingleUse_IRLU" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">• Light OFF</Translation>
+      </Text>
+      <Text Id="__SingleUse_BU1L" Alignment="Left" TypographyId="Typography_01">
+        <Translation Language="GB">SwitchBot</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="OCRAEXT.TTF" Size="50" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="0123456789" />
+    <Typography Id="Small" Font="verdana.ttf" Size="15" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="OCRAEXT.TTF" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="0123456789" />
+    <Typography Id="Typography_01" Font="arialbd.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
