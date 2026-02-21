@@ -12,7 +12,53 @@ RTC 예약 기능을 통해 지정된 시간에 자동 동작하는 스마트 �
 
 ## 프로젝트 이미지
 
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6faaac99-e3c6-4650-939a-ccd28a87cea5" width="400"/>
+      <br/>
+      <b>MAIN_OFF</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ae2fbf24-dd94-43d5-a6fe-8c87df7774dc" width="400"/>
+      <br/>
+      <b>MAIN_ON</b>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f77c941b-2123-43be-bd50-6d5f87dfe63d" width="260"/>
+      <br/>
+      <b>TIMER_OFF</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/775fd939-8d5d-4b46-b7f5-6feea0c7a60c" width="260"/>
+      <br/>
+      <b>TIMER_SET_TIME</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/85425911-0c0b-4606-97ef-a0afdca6fac2" width="260"/>
+      <br/>
+      <b>TIMER_ON</b>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/dbebf624-42d2-4a9d-9f95-b287b5de745b" width="400"/>
+      <br/>
+      <b>MAIN_RTC</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a0611e43-b721-4af8-8d3d-9f570f1306f6" width="400"/>
+      <br/>
+      <b>TIMER_RTC</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
